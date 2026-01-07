@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+<img align="right" alt="Coding" width="400" src="(https://i.pinimg.com/originals/fb/4f/c9/fb4fc97e9ae190c742cfc1a9b90a9fb6.gif)">
 <!--
 **aswathy1807/aswathy1807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
