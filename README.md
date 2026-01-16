@@ -9,9 +9,6 @@
 ###  About Me
 I am a passionate **BTech IT student**. I love exploring and learning new technologies.
 
-- 🔭 I’m currently working on **Steve-vs-Demogorgan**
-- 🌱 I’m currently learning **Pygame**
-
 ---
 
 ###  Connect with me
